@@ -1,1 +1,1 @@
-# git-conflict-challenge ON LOCAL REPO change line here too to create the merge conflict
+# git-conflict-challenge ON GITHUB (remote), modif to create a merge conflict
